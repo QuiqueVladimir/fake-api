@@ -182,6 +182,8 @@
   "keepers": [
     {
       "id": "1",
+      "email": "JuanPerez@gmail.com",
+      "password": "pass123",
       "name": "Juan Pérez",
       "country": "Peru",
       "city": "Lima",
@@ -192,6 +194,8 @@
     },
     {
       "id": "2",
+      "email": "mariagonzalez@example.com",
+      "password": "defaultPassword123",
       "name": "María González",
       "country": "United States",
       "city": "Los Angeles",
@@ -202,6 +206,8 @@
     },
     {
       "id": "3",
+      "email": "luisrodriguez@example.com",
+      "password": "defaultPassword123",
       "name": "Luis Rodríguez",
       "country": "United States",
       "city": "New York",
@@ -212,6 +218,8 @@
     },
     {
       "id": "4",
+      "email": "anasanchez@example.com",
+      "password": "defaultPassword123",
       "name": "Ana Sánchez",
       "country": "United States",
       "city": "San Francisco",
@@ -222,6 +230,8 @@
     },
     {
       "id": "5",
+      "email": "carloslopez@example.com",
+      "password": "defaultPassword123",
       "name": "Carlos López",
       "country": "United States",
       "city": "Chicago",
@@ -232,6 +242,8 @@
     },
     {
       "id": "6",
+      "email": "elenamartinez@example.com",
+      "password": "defaultPassword123",
       "name": "Elena Martínez",
       "country": "United States",
       "city": "Austin",
@@ -242,6 +254,8 @@
     },
     {
       "id": "7",
+      "email": "pedroramirez@example.com",
+      "password": "defaultPassword123",
       "name": "Pedro Ramírez",
       "country": "United States",
       "city": "Seattle",
@@ -252,6 +266,8 @@
     },
     {
       "id": "8",
+      "email": "sofiatorres@example.com",
+      "password": "defaultPassword123",
       "name": "Sofía Torres",
       "country": "United States",
       "city": "Denver",
@@ -262,6 +278,8 @@
     },
     {
       "id": "9",
+      "email": "javiergarcia@example.com",
+      "password": "defaultPassword123",
       "name": "Javier García",
       "country": "United States",
       "city": "Portland",
@@ -269,6 +287,18 @@
       "description": "Me dedico al arte y la música. Tu hogar será un lugar inspirador. Además, puedo cuidar de tus plantas, mascotas y mantener tu hogar en perfectas condiciones.",
       "photoUrl": "https://i.imgur.com/Pgnn7yp.png",
       "rating": 8
+    },
+    {
+      "id": 10,
+      "name": "asd",
+      "country": "asd",
+      "city": "",
+      "streetAddress": "asd",
+      "description": "asd",
+      "password": "asd",
+      "email": "asd",
+      "photoUrl": "https://cdn-icons-png.flaticon.com/512/3135/3135768.png",
+      "rating": 5
     }
   ],
   "keeperRequest": [
@@ -299,6 +329,48 @@
       "message": "Me encantaria que me dieras la oportunidad de cuidar tu casa para demostrar mi experiencia",
       "photoUrl": "https://i.imgur.com/uh1uNcy.jpg",
       "rating": 5.2
+    }
+  ],
+  "travellers": [
+    {
+      "id": 1,
+      "name": "John",
+      "lastName": "Doe",
+      "birthdate": "1990-05-15",
+      "phone": "+1 555-123-4567",
+      "email": "john.doe@example.com",
+      "password": "secure123",
+      "photoUrl": "https://i.imgur.com/m0Y7vuI.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Alice",
+      "lastName": "Smith",
+      "birthdate": "1985-09-20",
+      "phone": "+44 20 1234 5678",
+      "email": "alice.smith@example.com",
+      "password": "p@ssw0rd",
+      "photoUrl": "https://i.imgur.com/m0Y7vuI.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Carlos",
+      "lastName": "González",
+      "birthdate": "1988-03-10",
+      "phone": "+34 912 345 678",
+      "email": "carlos.gonzalez@example.com",
+      "password": "secreto123",
+      "photoUrl": "https://i.imgur.com/m0Y7vuI.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Carls",
+      "lastName": "Avellaneda",
+      "birthdate": "3221-02-21",
+      "phone": 123123123,
+      "email": "charlyavellaneda@hotmail.com",
+      "password": "123",
+      "photoUrl": "https://cdn-icons-png.flaticon.com/512/3135/3135768.png"
     }
   ]
 }
